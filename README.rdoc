@@ -1,0 +1,27 @@
+= store
+
+* {Homepage}[https://rubygems.org/gems/store]
+* {Documentation}[http://rubydoc.info/gems/store/frames]
+* {Email}[mailto:avedenij at yahoo.com]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'store'
+
+== Requirements
+
+== Install
+
+  $ gem install store
+
+== Copyright
+
+Copyright (c) 2014 Dimcha
+
+See LICENSE.txt for details.
