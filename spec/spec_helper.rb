@@ -1,3 +1,6 @@
+require 'simplecov'
+SimpleCov.start
+
 require 'store/version'
 require 'store/item'
 require 'store/checkout'

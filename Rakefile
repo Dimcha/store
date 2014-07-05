@@ -27,7 +27,7 @@ end
 task :doc => :rdoc
 
 begin
-  gem 'rspec', '~> 2.4'
+  gem 'rspec', '~> 3.0.0'
   require 'rspec/core/rake_task'
 
   RSpec::Core::RakeTask.new
