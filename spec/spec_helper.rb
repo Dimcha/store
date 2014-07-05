@@ -1,5 +1,6 @@
-gem 'rspec', '~> 2.4'
-require 'rspec'
 require 'store/version'
+require 'store/item'
+require 'store/checkout'
+require 'store/pricing_rules'
 
 include Store
